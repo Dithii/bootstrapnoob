@@ -1,0 +1,77 @@
+@font-face {
+    font-family: bebas;
+    src: url(Raleway-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: monserrat;
+    src: url(Montserrat-Medium.ttf);
+}
+
+body {
+    font-family: monserrat;
+}
+
+.header {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+}
+
+.btn-font {
+    font-family: bebas;
+    letter-spacing: 1.5px;
+    font-size: 12px;
+}
+
+.slider-img {
+    background-image: url("Brown-Hairs-Girl-Wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron-bg {
+    background: none;
+}
+
+.navbar-bg {
+    background: none !important;
+}
+
+.navbar-brand img {
+    width: 200px;
+    height: auto;
+}
+
+.font {
+    font-size: 20px;
+}
+
+.nav-link {
+    color: white;
+}
+
+.white-bg {
+    background: white;
+}
+
+.img img {
+    width: 275px;
+    height: auto;
+}
+
+.height {
+    min-height: 500px;
+}
+
+.logo-icons ul {
+    list-style: none;
+}
+
+.logo-icons ul li {
+    display: inline-block;
+    position: relative;
+    padding: 18px;
+}
+
+.logo-icons ul li i {
+    font-size: 25px;
+}
